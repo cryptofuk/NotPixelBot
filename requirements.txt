@@ -66,3 +66,4 @@ virtualenv==20.27.1
 xattr==1.1.0
 yarl==1.13.1
 zipp==3.21.0
+colorlog
